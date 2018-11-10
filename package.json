@@ -1,0 +1,12 @@
+{
+  "name": "bookshelf",
+  "version": "1.0.0",
+  "description": "A repo of programming books",
+  "scripts": {
+    "mkreadme": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lcfme",
+  "devDependencies": {
+    "grunt": "^1.0.3"
+  }
+}
